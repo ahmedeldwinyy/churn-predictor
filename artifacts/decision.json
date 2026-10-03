@@ -1,0 +1,11 @@
+{
+  "model": "logreg",
+  "threshold": 0.6,
+  "cv_profit_per_1000": 9093.9,
+  "assumptions": {
+    "save_value": 400.0,
+    "offer_success": 0.3,
+    "call_cost": 25.0,
+    "capacity_share": 0.15
+  }
+}
