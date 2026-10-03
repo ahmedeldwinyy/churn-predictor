@@ -9,7 +9,7 @@ retention team **whom to contact first**, with the business cost of mistakes bui
 - **Production habits:** tested code, pipelines with no data leakage, experiment tracking (MLflow), typed API, Docker, CI, drift monitoring.
 
 ## Live demo
-API docs: `<paste your deployed URL here>/docs`  (free hosting may take about a minute to wake up)
+API docs: `https://churn-predictor-xxxx.onrender.com/docs`  (free hosting may take about a minute to wake up)
 
 ## Quickstart
 ```bash
